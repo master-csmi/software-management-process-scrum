@@ -25,6 +25,13 @@ SIX PRINCIPLES : (Jérémy)
 -	Time-boxing: limiting superfluous activities (like meetings) for the sake of efficiency.
 -	Iterative development: incrementally developing the product to constantly readjust the backlog.
 
+SCRUM ROLES: (Hassan)
+A Scrum team consists of three main roles:
+The Scrum master, the project owner and the developpement team:
+1)The Scrum master acts as a facilitator for the development team and ensures that Scrum principles are followed.
+2)  The project owner is responsible for defining the product backlog and prioritizing items to maximize value.
+3) The Development Team is responsible for delivering increments of usable functionality in each sprint.
+
 SCRUM LIFE CYCLE: THE SPRINT (Ariel)
 
 The concrete sprint in this framework is quite self-explanatory, it very much resembles a sprint in real life: you have a goal, a set path to go through and they are of fixed length. During all Sprints, some important rules must be followed in order to carry out the Sprint: no goal-endangering changes are made, the product’s backlog can be refined as needed regarding the different issues encountered and new goals are set to guarantee advancement.
@@ -34,9 +41,12 @@ SCRUM LIFE CYCLE : SPRINT PLANNING (Dieudonné)
 
 Within the Scrum framework, ceremonies consist of setting goals and plans for the upcoming sprint: they are about reviewing the backlog, discussing and brainstorming the following work and sprints.
 
-SCRUM LIFE CYCLE : SPRINT REVIEWS
+SCRUM LIFE CYCLE : SPRINT REVIEWS 
 
 Sprint review are among the most important Scrum ceremonies where the Scrum teams reviews the Sprint’s results. It can include a demo of the product, but also feedbacks and suggestions for further additional changes.
+
+SCRUM LIFE CYCLE : SPRINT RETROSPECTIVE (Hassan)
+Sprint Retrospective is a short review meeting at the end of each sprint in Agile Scrum, where the team reflects on their performance and identifies ways to improve processes, tools, techniques, and behaviors for the next sprint to deliver better results and increase overall efficiency.
 
 PRACTICAL USE CASE : (Dieudonné)
 
@@ -52,3 +62,4 @@ By the time, Scrum, through repeated “sprints” allowed the project team to g
 ADVANTAGES AND INCONVENIENCES ENCOUNTERED: (Ariel)
 
 The key to such an effective team is time- and task management, implemented thanks to the meetings, helping all team members to focus on specific issues by prioritizing some tasks, allowing other members to advance on their parts. The meetings allow for feedbacks, reassuring the product owner by providing them with the detailed backlog. 
+

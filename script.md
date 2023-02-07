@@ -26,6 +26,7 @@ SIX PRINCIPLES : (Jérémy)
 -	Iterative development: incrementally developing the product to constantly readjust the backlog.
 
 SCRUM ROLES: (Hassan)
+
 A Scrum team consists of three main roles:
 The Scrum master, the project owner and the developpement team:
 1)The Scrum master acts as a facilitator for the development team and ensures that Scrum principles are followed.
@@ -46,6 +47,7 @@ SCRUM LIFE CYCLE : SPRINT REVIEWS
 Sprint review are among the most important Scrum ceremonies where the Scrum teams reviews the Sprint’s results. It can include a demo of the product, but also feedbacks and suggestions for further additional changes.
 
 SCRUM LIFE CYCLE : SPRINT RETROSPECTIVE (Hassan)
+
 Sprint Retrospective is a short review meeting at the end of each sprint in Agile Scrum, where the team reflects on their performance and identifies ways to improve processes, tools, techniques, and behaviors for the next sprint to deliver better results and increase overall efficiency.
 
 PRACTICAL USE CASE : (Dieudonné)

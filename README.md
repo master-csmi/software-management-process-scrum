@@ -1,6 +1,8 @@
 # Project-management-SCRUM
 M1-CSMI-2022-2023
 
+Link to our first [repository](https://github.com/master-csmi/Project-management-SCRUM.git), where everyone added their parts.
+
 ## Team members 
 
   Member 1: Seithondji Dieudonné
